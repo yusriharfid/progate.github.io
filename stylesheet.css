@@ -181,7 +181,6 @@ header {
 
 .lesson-icon {
   position: relative;
-  box-shadow: 7px 7px 10px;
 }
 
 .lesson-icon:hover img {
