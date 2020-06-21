@@ -58,7 +58,7 @@
     width: 100%;
   }
 
-  .heading-message {
+  .heading-message h2, h3 {
     text-align: center;
     
   footer {
