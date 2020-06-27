@@ -237,7 +237,7 @@ header {
 }
 .about-us {
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
   text-align: left;
   
 }
@@ -245,7 +245,7 @@ header {
 .heading-aboutus h2 {
   padding: 15px 40px;
   text-align: center;
-  font-size: 45px;
+  font-size: 21px;
 }
 
 .heading-aboutus p {
