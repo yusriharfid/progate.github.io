@@ -238,8 +238,11 @@ header {
 .about-us {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
-  text-align: center;
-  }
+  text-align: left;
+  background-image: url("lesson-02.png");
+  background-size: cover;
+  background-position: center;
+}
 
 .heading-aboutus h2 {
   padding: 15px 40px;
