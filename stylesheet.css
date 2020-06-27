@@ -235,6 +235,11 @@ header {
   position: relative;
 
 }
+.heading-aboutus {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+  }
 
 footer img {
   width: 125px;
