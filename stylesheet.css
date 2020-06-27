@@ -241,6 +241,19 @@ header {
   text-align: center;
   }
 
+.heading-aboutus h2 {
+  padding: 15px 40px;
+  text-align: center;
+  padding-bottom: 80px;
+  font-size: 45px;
+}
+
+.heading-aboutus p {
+  padding: 15px 40px;
+  text-align: center;
+  font-size: 15px;
+}
+
 footer img {
   width: 125px;
 }
