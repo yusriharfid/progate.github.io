@@ -272,11 +272,11 @@ footer {
 .sosmed-footer {
   float: right;
   background-color: #3b5998;
+  margin-right: 15px;
 }
 
 .sosmed-footer:hover {
   opacity: 0.7;
-  margin-right: 15px;
 }
 
 .menu-icon {
