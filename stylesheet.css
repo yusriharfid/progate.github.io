@@ -239,20 +239,17 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: left;
-  background-image: url("lesson-02.png");
-  background-size: cover;
-  background-position: center;
+  
 }
 
 .heading-aboutus h2 {
   padding: 15px 40px;
   text-align: center;
-  padding-bottom: 80px;
   font-size: 45px;
 }
 
 .heading-aboutus p {
-  padding: 15px 40px;
+  padding: 15px 15px;
   text-align: center;
   font-size: 15px;
 }
